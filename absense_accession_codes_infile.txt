@@ -1,0 +1,12 @@
+name,accession,type
+Saccharomyces cerevisiae,GCF_000146045.2_R64_protein.faa,source
+Saccharomyces mikatae,Smik.faa,target
+Naumovozyma castellii,GCF_000237345.1_ASM23734v1_protein.faa,target
+Kluyveromyces lactis,GCF_000002515.2_ASM251v1_protein.faa,target
+Aspergillus nidulans,GCF_000149205.2_ASM14920v2_protein.faa,target
+Saccharomyces kudriavzevii,GCA_000167075.2_Saccharomyces_kudriavzevii_strain_IFO1802_v1.0_protein.faa,target
+Yarrowia lipolytica,GCF_000002525.2_ASM252v1_protein.faa,target
+Schizosaccharomyces pombe,GCF_000002945.1_ASM294v2_protein.faa,target
+Eremothecium gossypii,GCF_000091025.4_ASM9102v4_protein.faa,target
+Saccharomyces paradoxus,GCF_002079055.1_ASM207905v1_protein.faa,target
+Saccharomyces bayanus,Sbay.faa,target
